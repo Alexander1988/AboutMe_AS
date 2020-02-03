@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Alex Sorokin</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Длинный текст,
+    \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+        \n Абзац 1.
+    \n Абзац 2.
+    \n Абзац 3.
+    \n Абзац 4.
+    </string>
+    <string name="What_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
